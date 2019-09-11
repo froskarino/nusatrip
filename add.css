@@ -1,0 +1,1267 @@
+@charset "utf-8";
+
+/* CSS Document */
+h3{
+	margin:0px !important;
+}
+h4{
+	margin:0px !important;
+}
+.promo-te {
+	background-image: url('http://sta.nusatrip.net/cmsimg/41/41/mobile_background_beach.jpg') !important;
+	height: 100%;
+	background-position: top left !important;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+	min-width:940px;
+	width:auto;
+	margin-left:-20px;
+	padding:0px 20px;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
+	border-radius:0px;
+	-webkit-box-shadow:inset 0 1px 3px rgba(0,0,0,0);
+	-moz-box-shadow:inset 0 1px 3px rgba(0,0,0,0);
+	box-shadow:inset 0 1px 3px rgba(0,0,0,0);
+	margin-top:25px;
+	background-color:#f5f5f5 !important;
+}
+
+.padding5 {
+	padding: 0px !important;
+	background-image: url('http://sta.nusatrip.net/cmsimg/41/41/mobile_background_beach.jpg') !important;
+	height: 100%;
+	background-position: top left !important;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+	width:100%;	
+	overflow-y:hidden;
+}
+
+.latar{
+	max-width:940px;
+}
+
+.ttldesk {
+	background-image: url('http://sta.nusatrip.net/cmsimg/41/41/latest-promo-main-bcgr.png');
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color: #0d7ab4;
+	text-transform: uppercase;
+	width: 202px;
+	height: 45px;
+	background-position: top;
+	background-repeat: no-repeat;
+	padding-top: 11px;
+	margin-bottom: -5px;
+	margin-top: 20px;
+}
+
+.ttlmob2 {
+	display: none;
+}
+
+.ttldeska {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 16px;
+	color: #fff;
+	padding-top: 8px;
+	padding-bottom: 20px;
+	padding-left: 18px;
+	font-weight: 400;
+	background-image: url('http://sta.nusatrip.net/cmsimg/41/41/other-promo-main_1.jpg');
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	width: 97%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: left;
+}
+
+.ttlmob2a {
+	display: none;
+}
+
+.grebo2 {
+	border: 1px solid #d6d6d6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: #666 0px 1px 2px;
+	-webkit-box-shadow: #666 0px 1px 2px;
+	-moz-box-shadow: #666 0px 1px 2px;
+}
+
+.grebo4 {
+	margin: 0px !important;
+	width: 25% !important;
+	overflow: hidden;
+	background-color: #f5f5f5;
+}
+
+.grebo4a {
+	border-top: 1px solid #d6d6d6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px !important;
+	width: 95% !important;
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: #666 0px 1px 2px;
+	-webkit-box-shadow: #666 0px 1px 2px;
+	-moz-box-shadow: #666 0px 1px 2px;
+	position: relative;
+	max-height:250px;
+	min-height:230px;
+}
+
+.grebo {
+	border: 1px solid #d6d6d6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin: 10px !important;
+	width: 31% !important;
+	overflow: hidden;
+	background-color: #fff;
+	box-shadow: #666 0px 1px 2px;
+	-webkit-box-shadow: #666 0px 1px 2px;
+	-moz-box-shadow: #666 0px 1px 2px;
+}
+
+.grebo-in {
+	padding: 10px;
+}
+
+.grebo-in7 {
+	padding: 0px;
+}
+
+.grebo-outer {
+	margin-bottom: 0px !important;
+	padding: 0px !important;
+}
+
+.grebo1 {
+	border: 0px solid #d6d6d6;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin: 10px !important;
+	width: 31% !important;
+	overflow: hidden;
+	padding: 0px !important;
+	background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+	background-size: cover;
+	box-shadow: #666 0px 1px 2px;
+	-webkit-box-shadow: #666 0px 1px 2px;
+	-moz-box-shadow: #666 0px 1px 2px;
+	position: relative !important;
+}
+
+.grebo1a {
+	display: none !important;
+}
+
+.ats {
+	height: 30px !important;
+}
+
+.txt-ket {
+	font: 12px/1.4em 'Open Sans', Arial, sans-serif;
+	text-align: center;
+	color: #666;
+	letter-spacing: 0.025em;
+	font-weight: 400;
+	line-height: 17px;
+	position: relative;
+	height: 68px;
+	margin: 10px 0;
+	padding: 0 5px;
+}
+
+.tmbl-biru {
+	font-size: 13px;
+	width: 90%;
+	background: linear-gradient(to bottom, rgba(41, 146, 203, 1) 0%, rgba(41, 146, 203, 1) 50%, rgba(0, 83, 135, 1) 100%);
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	color: #fff !important;
+	padding: 5px;
+	padding-bottom: 7px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: 600;
+	text-decoration: none;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.tmbl-biru:hover {
+	text-decoration: none;
+}
+
+.tmbl-biru1:hover {
+	text-decoration: none;
+	font-weight:600 !important;
+}
+
+.tmbl-biru1 {
+	font-size: 11px;
+	font-weight:600 !important;
+	width: 100%;
+	background-color: #3fadd5;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	color: #fff !important;
+	padding: 0px;
+	padding-top: 5px;
+	padding-bottom: 7px;
+	-moz-border-radius: 0px 0px 4px 4px;
+	-webkit-border-radius: 0px 0px 4px 4px;
+	border-radius: 0px 0px 4px 4px;
+	font-weight: 600;
+	text-decoration: none;
+	display: block;
+	margin: auto;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	z-index: 99;
+	background-clip: border-box;
+}
+
+.pr-img {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	width: 100%;
+}
+
+.pr-img7 {
+	-moz-border-radius:5px 5px 0 0;
+	-webkit-border-radius:5px 5px 0 0;
+	border-radius:5px 5px 0 0;
+	width: 100%;
+}
+
+
+.txt-ttl {
+	width: 60%;
+	color: #fff;
+	font-size: 20px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-weight: 600;
+	text-align: left;
+	margin-left: 8px;
+	margin-top: 6px;
+	line-height: 22px;
+	position: absolute;
+}
+
+.txt-tgh {
+	width: 60%;
+	font-family: 'Open Sans', Arial, sans-serif;
+	color: #fff;
+	font-size: 14px;
+	line-height: 20px;
+	margin-top: 15px !important;
+	text-align: left;
+	margin-left: 8px;
+	margin-top: 6px;
+	position: absolute;
+	top: 70px;
+}
+
+.socimed {
+	line-height: 22px !important;
+	margin: auto;
+	margin-bottom: 5px;
+	margin-left: 8px;
+	width: 100%;
+	text-align: left;
+}
+
+.tercuk {
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+
+.block-with-text {
+	overflow: hidden;
+	display: -webkit-box !important;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+}
+
+.block-with-text:hover {
+	overflow: hidden;
+	display: -webkit-box !important;
+	-webkit-line-clamp: 6;
+	-webkit-box-orient: vertical;
+	margin-bottom:30px !important;
+}
+
+.deva1 {
+	border: 0px solid #CCC;
+	display: inline-block;
+	overflow: hidden;
+	float: left;
+	height: 67px;
+	/* set this height in percentage to test resizing */
+	width: 100%;
+	/*  -webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+	/*  transition: width 2s, height 4s; */
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 17px;
+	color: #133565 !important;
+	padding: 5px;
+	margin-bottom: 8px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.deva1:hover {
+	background-color: rgba(255, 255, 255, .8);
+	position: absolute;
+	vertical-align: middle;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin-left: 2.5%;
+	margin: auto;
+	border-radius: 5px;
+	padding-top: 30px;
+	height: 110px;
+	display: inline-block;
+	width: 85%;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 17px;
+	color: #133565 !important;
+	padding: 5px;
+	margin-top: -105px;
+	z-index: 98;
+}
+
+@media only screen and (max-width :940px){
+	.grebo{
+	width: 100% !important;	
+	}	
+	.grebo1{
+	width: 100% !important;	
+	}	
+	.grebo1a{
+		display:none;
+	}
+	.ttldesk {
+		display: none;
+	}
+	.ttlmob2 {
+		position: relative;
+		width: 100%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+	}
+	.ttlmob1 {
+		width: 100%;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: 22px;
+		text-align: center;
+		margin: auto;
+	}
+	.ttlmob {
+		background-color: #fff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		text-align: center;
+		color: #0d7ab4;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 170px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+		top: 17px;
+	}
+	.ttldeska {
+		display: none;
+	}
+	.ttlmob2a {
+		position: relative;
+		width: 95%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+		border-bottom: 1px solid #0d7ab4;
+		margin-bottom: 22px;
+		margin-top: -12px;
+	}
+	.ttlmob1a {
+		width: 100%;
+		-moz-border-radius: 12px 12px 0px 0px;
+		-webkit-border-radius: 12px 12px 0px 0px;
+		-o-border-radius: 12px 12px 0px 0px;
+		border-radius: 12px 12px 0px 0px;
+		font-size: 14px;
+		color: #ffffff;
+		padding-top: 10px;
+		font-family: Arial, 'Open-sans', sans-serif;
+		font-weight: normal;
+	}
+	.ttlmoba {
+		background-color: #0d7ab4;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: center;
+		color: #fff;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 150px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+	}
+	.txt-ttl {
+		width: 55%;
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 16px;
+		line-height: 30px;
+		top: 110px;
+	}
+	.grebo1a {
+		display: none !important;
+	}
+	.grebo4 {
+		margin: 0px !important;
+		width: 25% !important;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	.grebo4a {
+		max-height:230px;
+	min-height:220px;
+	}
+	.deva1:hover {
+		margin-top: -105px;
+	}
+	.tmbl-biru1 {
+		font-size: 12px;
+		padding-left:0px;
+		padding-right:0px;		
+	}
+}
+
+@media only screen and (max-width :860px){
+	.grebo{
+	width: 100% !important;	
+	}	
+	.grebo1{
+	width: 100% !important;	
+	}	
+	.grebo1a{
+		display:none;
+	}		
+	.ttldesk {
+		display: none;
+	}
+	.ttlmob2 {
+		display: block !important;
+		margin-bottom: -30px;
+	}
+	.ttlmob1 {
+		width: 100%;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: 22px;
+		text-align: center;
+		margin: auto;
+	}
+	.ttlmob {
+		background-color: #fff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		text-align: center;
+		color: #0d7ab4;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 170px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+		top: 17px;
+	}
+	.ttldeska {
+		display: none;
+	}
+	.ttlmob2a {
+		position: relative;
+		width: 95%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+		border-bottom: 1px solid #0d7ab4;
+		margin-bottom: 22px;
+		margin-top: -12px;
+	}
+	.ttlmob1a {
+		width: 100%;
+		-moz-border-radius: 12px 12px 0px 0px;
+		-webkit-border-radius: 12px 12px 0px 0px;
+		-o-border-radius: 12px 12px 0px 0px;
+		border-radius: 12px 12px 0px 0px;
+		font-size: 14px;
+		color: #ffffff;
+		padding-top: 10px;
+		font-family: Arial, 'Open-sans', sans-serif;
+		font-weight: normal;
+	}
+	.ttlmoba {
+		background-color: #0d7ab4;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: center;
+		color: #fff;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 150px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+	}
+	.txt-ttl {
+		width: 55%;
+		font-size: 23px;
+		line-height: 23px;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 14px;
+		line-height: 20px;
+		top: 90px;
+	}
+	.grebo1a {
+		display: none !important;
+	}
+	.grebo4 {
+		margin: 0px !important;
+		width: 25% !important;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	.grebo4a {
+		max-height:225px;
+	min-height:215px;
+	}
+	.deva1:hover {
+		margin-top: -130px;
+	}	
+	.tmbl-biru1 {
+		font-size: 13px;
+		padding-left:0px;
+		padding-right:0px;		
+	}
+}
+@media only screen and (max-width :768px){
+	.grebo4a {
+		max-height:225px;
+	min-height:205px;
+	}
+	.deva1:hover {
+		height:110px;
+		width:95%;
+	}	
+	.tmbl-biru1 {
+		font-size: 11px;
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+@media only screen and (max-width :680px){
+	.grebo4a {
+		max-height:215px;
+	min-height:195px;
+	}
+	.deva1:hover {
+		height:110px;
+		width:96%;
+	}	
+	.tmbl-biru1 {
+		font-size: 11px;
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+@media only screen and (max-width :640px){
+	.grebo{
+	width: 100% !important;	
+	}	
+	.grebo1{
+	width: 100% !important;	
+	}	
+	.grebo1a{
+		display:none;
+	}		
+	.ttldesk {
+		display: none;
+	}
+	.ttlmob2 {
+		display: block !important;
+		margin-bottom: -30px;
+	}
+	.ttlmob1 {
+		width: 100%;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: 22px;
+		text-align: center;
+		margin: auto;
+	}
+	.ttlmob {
+		background-color: #fff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		text-align: center;
+		color: #0d7ab4;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 170px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+		top: 17px;
+	}
+	.ttldeska {
+		display: none;
+	}
+	.ttlmob2a {
+		position: relative;
+		width: 95%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+		border-bottom: 1px solid #0d7ab4;
+		margin-bottom: 22px;
+		margin-top: -12px;
+	}
+	.ttlmob1a {
+		width: 100%;
+		-moz-border-radius: 12px 12px 0px 0px;
+		-webkit-border-radius: 12px 12px 0px 0px;
+		-o-border-radius: 12px 12px 0px 0px;
+		border-radius: 12px 12px 0px 0px;
+		font-size: 14px;
+		color: #ffffff;
+		padding-top: 10px;
+		font-family: Arial, 'Open-sans', sans-serif;
+		font-weight: normal;
+	}
+	.ttlmoba {
+		background-color: #0d7ab4;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: center;
+		color: #fff;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 150px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+	}
+	.txt-ttl {
+		width: 55%;
+		font-size: 23px;
+		line-height: 23px;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 14px;
+		line-height: 20px;
+		top: 90px;
+	}
+	.grebo1a {
+		display: none !important;
+	}
+	.grebo4 {
+		margin: 0px !important;
+		width: 25% !important;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	.grebo4a {
+		max-height:205px;
+	min-height:190px;
+	}
+	.deva1:hover {
+		height:108px;
+		width:95%;
+	}	
+	.tmbl-biru1 {
+		font-size: 10px;
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+
+@media only screen and (max-width :568px){
+	.grebo{
+	width: 100% !important;	
+	}	
+	.grebo1{
+	width: 100% !important;	
+	}	
+	.grebo1a{
+		display:none;
+	}		
+	.ttldesk {
+		display: none;
+	}
+	.ttlmob2 {
+		display: block !important;
+		margin-bottom: -30px;
+	}
+	.ttlmob1 {
+		width: 100%;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: 22px;
+		text-align: center;
+		margin: auto;
+	}
+	.ttlmob {
+		background-color: #fff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		text-align: center;
+		color: #0d7ab4;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 170px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+		top: 17px;
+	}
+	.ttldeska {
+		display: none;
+	}
+	.ttlmob2a {
+		position: relative;
+		width: 95%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+		border-bottom: 1px solid #0d7ab4;
+		margin-bottom: 22px;
+		margin-top: -12px;
+	}
+	.ttlmob1a {
+		width: 100%;
+		-moz-border-radius: 12px 12px 0px 0px;
+		-webkit-border-radius: 12px 12px 0px 0px;
+		-o-border-radius: 12px 12px 0px 0px;
+		border-radius: 12px 12px 0px 0px;
+		font-size: 14px;
+		color: #ffffff;
+		padding-top: 10px;
+		font-family: Arial, 'Open-sans', sans-serif;
+		font-weight: normal;
+	}
+	.ttlmoba {
+		background-color: #0d7ab4;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: center;
+		color: #fff;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 150px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+	}
+	.txt-ttl {
+		width: 55%;
+		font-size: 23px;
+		line-height: 23px;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 14px;
+		line-height: 16px;
+		top: 90px;
+	}
+	.grebo1a {
+		display: none !important;
+	}
+	.grebo4 {
+		margin: 0px !important;
+		width: 25% !important;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	.grebo4a {
+		max-height:215px;
+	min-height:185px;
+	}
+	.deva1:hover {
+		height:110px;
+		width:95%;
+	}	
+	.tmbl-biru1 {
+		font-size: 7pt;
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+
+@media only screen and (max-width :540px){
+	.grebo{
+	width: 100% !important;	
+	}	
+	.ttldesk {
+		display: none;
+	}
+	.ttlmob2 {
+		display: block !important;
+		margin-bottom: -30px;
+	}
+	.ttlmob1 {
+		width: 100%;
+		border-bottom: 1px solid #CCC;
+		margin-bottom: 22px;
+		text-align: center;
+		margin: auto;
+	}
+	.ttlmob {
+		background-color: #fff;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		text-align: center;
+		color: #0d7ab4;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 170px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+		top: 17px;
+	}
+	.ttldeska {
+		display: none;
+	}
+	.ttlmob2a {
+		position: relative;
+		width: 95%;
+		margin: auto;
+		display: block !important;
+		margin-bottom: -30px;
+		border-bottom: 1px solid #0d7ab4;
+		margin-bottom: 22px;
+		margin-top: -12px;
+	}
+	.ttlmob1a {
+		width: 100%;
+		-moz-border-radius: 12px 12px 0px 0px;
+		-webkit-border-radius: 12px 12px 0px 0px;
+		-o-border-radius: 12px 12px 0px 0px;
+		border-radius: 12px 12px 0px 0px;
+		font-size: 14px;
+		color: #ffffff;
+		padding-top: 10px;
+		font-family: Arial, 'Open-sans', sans-serif;
+		font-weight: normal;
+	}
+	.ttlmoba {
+		background-color: #0d7ab4;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		text-align: center;
+		color: #fff;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		text-transform: uppercase;
+		width: 150px;
+		padding: 5px 0px;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		position: relative;
+		top: 15px;
+		padding-left: 5px;
+		margin: auto;
+	}
+	.txt-ttl {
+		position: relative;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 13px;
+		line-height: 14px;
+		position: relative !important;
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+		top: 0px;
+	}	
+	.grebo1 {
+		display: none !important;
+	}
+	.grebo1a {
+		border: 0px solid #d6d6d6;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		margin: 10px !important;
+		width: 100% !important;
+		overflow: hidden;
+		padding: 0px !important;
+		background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+		background-size: cover;
+		background-position: center;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		position: relative !important;
+		display: block !important;
+	}
+	.grebo4 {
+		margin: 0px !important;
+		width: 50% !important;
+		overflow: hidden;
+		background-color: #fff;
+	}
+	.grebo4a {
+		max-height:255px;
+	min-height:245px;
+	}
+	.deva1:hover {
+		height:100px;
+		width:95%;
+	}	
+	.tmbl-biru1 {
+		font-size: 9pt;
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+
+@media only screen and (max-width :460px){
+	.grebo{
+	width: 100% !important;	
+	}
+	.grebo1 {
+		display: none !important;
+	}
+	.grebo1a {
+		border: 0px solid #d6d6d6;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		margin: 10px !important;
+		width: 100% !important;
+		overflow: hidden;
+		padding: 0px !important;
+		background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+		background-size: cover;
+		background-position: center;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		position: relative !important;
+		display: block !important;
+	}
+	.txt-ttl {
+		position: relative;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 13px;
+		line-height: 14px;
+		position: relative !important;
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+		top: 0px;
+	}	
+	.grebo4{
+		width:50% !important;
+	}
+	.grebo4a {
+		max-height:230px;
+	min-height:215px;
+	}
+	.deva1:hover {
+		height:110px;
+		width:90%;
+	}	
+	.tmbl-biru1 {
+		font-size: 12px;
+		width: 100%;
+		padding-left:0px;
+		padding-right:0px;
+	}	
+}
+@media only screen and (max-width :384px) {
+	.grebo{
+	width: 100% !important;	
+	}
+	.grebo1 {
+		display: none !important;
+	}
+	.grebo1a {
+		border: 0px solid #d6d6d6;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		margin: 10px !important;
+		width: 100% !important;
+		overflow: hidden;
+		padding: 0px !important;
+		background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+		background-size: cover;
+		background-position: center;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		position: relative !important;
+		display: block !important;
+	}
+	.txt-ttl {
+		position: relative;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 13px;
+		line-height: 14px;
+		position: relative !important;
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+		top: 0px;
+	}	
+	.grebo4{
+		width:50% !important;
+	}	
+	.grebo4a {
+		max-height:240px;
+	min-height:210px;		
+	}
+	.deva1:hover {
+		height:110px;
+		width:90%;
+	}
+	.tmbl-biru1 {
+		font-size: 12px;
+		width: 100%;
+		padding-left:0px;
+		padding-right:0px;
+	}		
+}
+@media only screen and (max-width :375px) {
+	.grebo{
+	width: 100% !important;	
+	}
+	.grebo1 {
+		display: none !important;
+	}
+	.grebo1a {
+		border: 0px solid #d6d6d6;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		margin: 10px !important;
+		width: 100% !important;
+		overflow: hidden;
+		padding: 0px !important;
+		background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+		background-size: cover;
+		background-position: center;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		position: relative !important;
+		display: block !important;
+	}
+	.txt-ttl {
+		position: relative;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 13px;
+		line-height: 14px;
+		position: relative !important;
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+		top: 0px;
+	}	
+	.grebo4{
+		width:50% !important;
+	}	
+	.grebo4a {
+		max-height:215px;
+	min-height:205px;		
+	}
+	.deva1:hover {
+		height:110px;
+		width:90%;
+	}
+	.tmbl-biru1 {
+		font-size: 12px;
+		width: 100%;
+		padding-left:0px;
+		padding-right:0px;
+	}		
+}
+@media only screen and (max-width :360px) {
+	.grebo{
+	width: 100% !important;	
+	}
+	.grebo1 {
+		display: none !important;
+	}
+	.grebo1a {
+		border: 0px solid #d6d6d6;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		margin: 10px !important;
+		width: 100% !important;
+		overflow: hidden;
+		padding: 0px !important;
+		background-image: url('http://sta.nusatrip.net/cmsimg/41/41/sosmed-box.jpg');
+		background-size: cover;
+		background-position: center;
+		box-shadow: #666 0px 1px 2px;
+		-webkit-box-shadow: #666 0px 1px 2px;
+		-moz-box-shadow: #666 0px 1px 2px;
+		position: relative !important;
+		display: block !important;
+	}
+	.txt-ttl {
+		position: relative;
+	}
+	.txt-tgh {
+		width: 55%;
+		font-size: 13px;
+		line-height: 14px;
+		position: relative !important;
+		margin-top: 5px !important;
+		margin-bottom: 5px !important;
+		top: 0px;
+	}	
+	.grebo4{
+		width:50% !important;
+	}	
+	.grebo4a {
+		max-height:210px;
+	min-height:200px;		
+	}
+	.deva1:hover {
+		height:110px;
+		width:90%;
+	}
+	.tmbl-biru1 {
+		font-size: 11px;
+		width: 100%;
+		padding-left:0px;
+		padding-right:0px;
+	}		
+}
+@media only screen and (max-width :320px) {
+	.tmbl-biru1 {
+		font-size: 10px;
+		width: 100%;
+		padding-left:0px;
+		padding-right:0px;
+	}
+	.deva1:hover {
+		height:107px;
+		width:90%;
+	}	
+	.grebo4a {
+		max-height:200px;
+	min-height:185px;		
+	}	
+}
